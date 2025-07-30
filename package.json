@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/project-circus-13/",
+    "build": "vite build --base=/121_html-css_kuroimera/",
     "preview": "vite preview"
   },
   "devDependencies": {
